@@ -1,0 +1,171 @@
+Airport Corporate
+04 July 2024 FA     
+Last Modified On: 05/02/2024 
+views: 1664513
+
+Imam Khomeini Airport City Corporate
+HomeTransport & ParkingAt The AirportFlights StatusGuidanceOrganization Services
+ 
+ /Flights status
+Flights ListLast Updated At 09:22
+ 
+SearchText
+  
+From Time To Time
+ Departed  Delayed 
+ Departure Flights  Arrival Flights
+Airline	Fly Number	Destination	Date	Schedule Time	Actual Time	Flight Description	Departed Remaining Time
+	B99712	Bodrum	2024-07-04	01:00	01:07	Departed	
+	JI4833	Dalaman	2024-07-04	01:05	01:18	Departed	
+	LH601	Frankfurt	2024-07-04	01:30	01:38	Departed	
+	FZ1930/EK2491	Dubai	2024-07-04	00:45	01:43	Departed	
+	TK875	Istanbul	2024-07-04	01:40	01:47	Departed	
+	IS7338	Baghdad	2024-07-04	02:00	02:08	Departed	
+	TK7689	Istanbul-Sabiha	2024-07-04	02:20	02:30	Departed	
+	TK873	Istanbul	2024-07-04	03:20	03:26	Departed	
+	PC513	Istanbul-Sabiha	2024-07-04	03:45	04:00	Departed	
+	TW976	Adena	2024-07-04	02:55	04:37	Departed	
+	SU515	Moscow	2024-07-04	04:45	04:43	Departed	
+	EK978	Dubai	2024-07-04	04:30	04:46	Departed	
+	TK3003	Adena	2024-07-04	04:55	05:03	Departed	
+	PC6657	Adena	2024-07-04	05:05	05:25	Departed	
+	QR491	Doha	2024-07-04	05:10	05:32	Departed	
+	TK7881	Ankara	2024-07-04	05:00	05:37	Departed	
+	W51101	Kabul	2024-07-04	06:05	06:11	Departed	
+	TK879	Istanbul	2024-07-04	05:55	06:30	Departed	
+	W5098	Moscow	2024-07-04	06:15	06:34	Departed	
+	PC517	Istanbul-Sabiha	2024-07-04	06:25	06:37	Departed	
+	IS7320	Baghdad	2024-07-04	06:35	06:42	Departed	
+	W5061	Dubai	2024-07-04	06:55	07:01	Departed	
+	QB2145	Almaty	2024-07-04	06:45	07:16	Departed	
+	JI4805	Istanbul	2024-07-04	07:05	07:18	Departed	
+	VR6805	Dushanbe	2024-07-04	07:25	07:25	Departed	
+DZ7893	Kandahar	2024-07-04	07:35	07:44	Departed	
+	I36617	Istanbul	2024-07-04	07:45	07:53	Departed	
+	W5116	Istanbul	2024-07-04	07:50	07:56	Departed	
+	QB2273	Tbilisi	2024-07-04	08:05	08:28	Departed	
+	EP510	Istanbul	2024-07-04	08:15	08:34	Departed	
+	QB2213	Istanbul	2024-07-04	08:45	08:45	On Time	
+	TK871	Istanbul	2024-07-04	08:55	08:55	On Time	
+	IV7914	Ankara	2024-07-04	09:00	09:00	On Time	
+	JI4877	S.Petersburg	2024-07-04	08:50	09:00	Departed	
+	IR669	Najaf	2024-07-04	09:10	09:10	On Time	
+	FZ1820/EK2374	Dubai	2024-07-04	09:45	09:45	On Time	
+22 Minutes
+	B99766	Moscow	2024-07-04	09:50	09:50	On Time	
+27 Minutes
+	W5063	Dubai	2024-07-04	09:55	09:55	On Time	
+32 Minutes
+	ZV3099	Najaf	2024-07-04	10:00	10:00	On Time	
+37 Minutes
+	B99710	Istanbul	2024-07-04	10:20	10:20	On Time	
+57 Minutes
+	EK972	Dubai	2024-07-04	10:40	10:40	On Time	
+1 Hours And 17 Minutes
+	EP546	Batumi	2024-07-04	10:45	10:45	On Time	
+1 Hours And 22 Minutes
+	OV544	Muscat	2024-07-04	11:15	11:15	On Time	
+1 Hours And 52 Minutes
+	6Q562	Damascus	2024-07-04	11:35	11:35	On Time	
+2 Hours And 12 Minutes
+	3L524/EY1693	Abu Dhabi	2024-07-04	11:40	11:40	On Time	
+2 Hours And 17 Minutes
+	IS7316	Muscat	2024-07-04	12:05	12:05	On Time	
+2 Hours And 42 Minutes
+	B99756	Tbilisi	2024-07-04	12:20	12:20	On Time	
+2 Hours And 57 Minutes
+	TK881	Istanbul	2024-07-04	12:25	12:25	On Time	
+3 Hours And 2 Minutes
+	D41362	Tbilisi	2024-07-04	12:30	12:30	On Time	
+3 Hours And 7 Minutes
+	HH7235	Ghazipasha	2024-07-04	12:55	12:55	On Time	
+3 Hours And 32 Minutes
+	J9156	Kuwait	2024-07-04	13:10	13:10	On Time	
+3 Hours And 47 Minutes
+	I36639	Najaf	2024-07-04	13:30	13:30	On Time	
+4 Hours And 7 Minutes
+	QB2251	Yerevan	2024-07-04	14:00	14:00	On Time	
+4 Hours And 37 Minutes
+	G9202	Sharjah	2024-07-04	14:25	14:25	On Time	
+5 Hours And 2 Minutes
+	W51152	Beirut	2024-07-04	14:35	14:35	On Time	
+5 Hours And 12 Minutes
+	IR675	Najaf	2024-07-04	14:35	14:35	On Time	
+5 Hours And 12 Minutes
+N41660	S.Petersburg	2024-07-04	14:40	14:40	On Time	
+5 Hours And 17 Minutes
+	FZ1938/EK2303	Dubai	2024-07-04	15:20	15:20	On Time	
+5 Hours And 57 Minutes
+	ZV3097	Najaf	2024-07-04	15:30	15:30	On Time	
+6 Hours And 7 Minutes
+	VR6813	Najaf	2024-07-04	15:40	15:40	On Time	
+6 Hours And 17 Minutes
+	JI4803	Najaf	2024-07-04	16:00	16:00	On Time	
+6 Hours And 37 Minutes
+	IV7951	Yerevan	2024-07-04	16:40	16:40	On Time	
+7 Hours And 17 Minutes
+	QB2231	Najaf	2024-07-04	17:00	17:00	On Time	
+7 Hours And 37 Minutes
+	W5114	Istanbul	2024-07-04	17:15	17:15	On Time	
+7 Hours And 52 Minutes
+	EP512	Istanbul	2024-07-04	17:45	17:45	On Time	
+8 Hours And 22 Minutes
+	W5065	Dubai	2024-07-04	17:50	17:50	On Time	
+8 Hours And 27 Minutes
+	I36645	Najaf	2024-07-04	18:00	18:00	On Time	
+8 Hours And 37 Minutes
+	EP584	Najaf	2024-07-04	18:10	18:10	On Time	
+8 Hours And 47 Minutes
+	EK980	Dubai	2024-07-04	18:20	18:20	On Time	
+8 Hours And 57 Minutes
+	3F692	Yerevan	2024-07-04	18:45	18:45	On Time	
+9 Hours And 22 Minutes
+	QB2215	Istanbul	2024-07-04	19:00	19:00	On Time	
+9 Hours And 37 Minutes
+	I36619	Istanbul	2024-07-04	19:30	19:30	On Time	
+10 Hours And 7 Minutes
+	IA112	Baghdad	2024-07-04	20:05	20:05	On Time	
+10 Hours And 42 Minutes
+	W5081	Guang Zhou	2024-07-04	20:20	20:20	On Time	
+10 Hours And 57 Minutes
+	W5051	Bangkok	2024-07-04	21:45	21:45	On Time	
+12 Hours And 22 Minutes
+	HH7257	Najaf	2024-07-04	22:10	22:10	On Time	
+12 Hours And 47 Minutes
+	QR499	Doha	2024-07-04	22:45	22:45	On Time	
+13 Hours And 22 Minutes
+	IV7912	Izmir	2024-07-04	22:50	22:50	On Time	
+13 Hours And 27 Minutes
+	QB2245	Isparta	2024-07-04	23:00	23:00	On Time	
+13 Hours And 37 Minutes
+	TK877	Istanbul	2024-07-04	23:05	23:05	On Time	
+13 Hours And 42 Minutes
+	I36631	Bodrum	2024-07-04	23:30	23:30	On Time	
+14 Hours And 7 Minutes
+
+Contact us
+Address iconAirport address: Imam Khomeini International Airport, 30 km from Tehran-Qom Rd., Tehran city, Tehran province.
+tel icon Tel. : 021-5100111 ،021-5100118 ،096330
+security icon Contact of security division: 021-5100112، ،021-51006030
+SMS ICONSMS:10009633
+Email IconEmail: csr@ikac.ir
+Postal codePostal code: 1838143760
+Useful links
+Contact us
+Announcements
+Airlines
+Q&A (questions and answers)
+Airport words and expressions
+Site map
+Copyright 2024 by Imam Khomeini Airport City
+Privacy Statement | Terms Of Use
+  
+
+ اندازه فونت
+ بزرگنمایی
+ کوچکنمایی
+ عدم نمایش تصاویر
+ تضاد رنگ
+ سیاه و سفید
+ نمایش لینک
+ بازنشانی
